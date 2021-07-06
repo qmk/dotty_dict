@@ -49,5 +49,4 @@ release: sdist ## package and upload a release
 
 sdist: clean ## package
 	pipenv run python setup.py sdist
-	gpg --detach-sign -a dist/*.tar.gz
 	ls -l dist
