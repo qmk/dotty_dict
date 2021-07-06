@@ -43,9 +43,10 @@ class TestCommand(test):
         test.run(self)
 
 
+print('hrm fuck hrm fuck')
 setup(
     name='qmk_dotty_dict',
-    version='1.3.0.post1',
+    version='1.3.0',
     description="Dictionary wrapper for quick access to deeply nested keys.",
     long_description=readme,
     license="MIT license",
