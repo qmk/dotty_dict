@@ -19,9 +19,8 @@ jobs:
         python-version: '3.7'
     - name: Install dependencies
       run: |
-        pip install pipenv==11.7.4 twine wheel
-        pipenv install --python 3.7 --ignore-pipfile
-        pipenv install --python 3.7 --dev --ignore-pipfile
+        pip install twine wheel
+        pip install .
     - name: Build and publish
       env:
         TWINE_USERNAME: qmk
