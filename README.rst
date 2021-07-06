@@ -5,38 +5,7 @@ Dotty-Dict
 :Info: Dictionary wrapper for quick access to deeply nested keys.
 :Author: Pawel Zadrozny @pawelzny <pawel.zny@gmail.com>
 
-.. image:: https://circleci.com/gh/pawelzny/dotty_dict/tree/master.svg?style=shield&circle-token=77f51e87481f339d69ca502fdbb0c2b1a76c0369
-   :target: https://circleci.com/gh/pawelzny/dotty_dict/tree/master
-   :alt: CI Status
-
-.. image:: https://readthedocs.org/projects/vo/badge/?version=latest
-   :target: http://dotty-dict.readthedocs.io/en/latest/?badge=latest
-   :alt: Documentation Status
-
-.. image:: https://img.shields.io/pypi/v/dotty_dict.svg
-   :target: https://pypi.org/project/dotty_dict/
-   :alt: PyPI Repository Status
-
-.. image:: https://img.shields.io/github/release/pawelzny/dotty_dict.svg
-   :target: https://github.com/pawelzny/dotty_dict
-   :alt: Release Status
-
-.. image:: https://img.shields.io/pypi/status/dotty_dict.svg
-   :target: https://pypi.org/project/dotty_dict/
-   :alt: Project Status
-
-.. image:: https://img.shields.io/pypi/pyversions/dotty_dict.svg
-   :target: https://pypi.org/project/dotty_dict/
-   :alt: Supported python versions
-
-.. image:: https://img.shields.io/pypi/implementation/dotty_dict.svg
-   :target: https://pypi.org/project/dotty_dict/
-   :alt: Supported interpreters
-
-.. image:: https://img.shields.io/pypi/l/dotty_dict.svg
-   :target: https://github.com/pawelzny/dotty_dict/blob/master/LICENSE
-   :alt: License
-
+This is a package published by [QMK](https://qmk.fm) since the current dotty-dict published to pypi has non-ASCII characters that breaks with some non-UTF8 locale settings.
 
 Features
 ========

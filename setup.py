@@ -44,7 +44,7 @@ class TestCommand(test):
 
 
 setup(
-    name='dotty_dict',
+    name='qmk_dotty_dict',
     version=get_version('dotty_dict', '__init__.py'),
     description="Dictionary wrapper for quick access to deeply nested keys.",
     long_description=readme,
