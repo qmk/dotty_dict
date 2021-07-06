@@ -46,7 +46,7 @@ class TestCommand(test):
 print('hrm fuck hrm fuck')
 setup(
     name='qmk_dotty_dict',
-    version='1.3.0',
+    version='1.3.0.qmk1',
     description="Dictionary wrapper for quick access to deeply nested keys.",
     long_description=readme,
     license="MIT license",

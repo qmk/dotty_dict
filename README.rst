@@ -5,7 +5,7 @@ Dotty-Dict
 :Info: Dictionary wrapper for quick access to deeply nested keys.
 :Author: Pawel Zadrozny @pawelzny <pawel.zny@gmail.com>
 
-This is a package published by [QMK](https://qmk.fm) since the current dotty-dict published to pypi has non-ASCII characters that breaks with some non-UTF8 locale settings.
+This is a package published by `QMK https://qmk.fm`_ since the current dotty-dict published to pypi has non-ASCII characters that breaks with some non-UTF8 locale settings.
 
 Features
 ========
