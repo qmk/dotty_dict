@@ -19,7 +19,7 @@ jobs:
         python-version: '3.7'
     - name: Install dependencies
       run: |
-        pip install pipenv==11.7.4
+        pip install pipenv==11.7.4 wheel
         pipenv install --python 3.7 --ignore-pipfile
         pipenv install --python 3.7 --dev --ignore-pipfile
     - name: Build and publish
