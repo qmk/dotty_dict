@@ -45,7 +45,7 @@ class TestCommand(test):
 
 setup(
     name='qmk_dotty_dict',
-    version='1.3.0-qmk1',
+    version='1.3.0.post1',
     description="Dictionary wrapper for quick access to deeply nested keys.",
     long_description=readme,
     license="MIT license",
