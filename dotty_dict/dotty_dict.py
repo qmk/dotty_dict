@@ -8,8 +8,8 @@ except ImportError:
 from functools import lru_cache
 import json
 
-__author__ = 'Paweł Zadrożny'
-__copyright__ = 'Copyright (c) 2017, Paweł Zadrożny'
+__author__ = 'Pawel Zadrozny'
+__copyright__ = 'Copyright (c) 2017, Pawel Zadrozny'
 
 
 def dotty(dictionary=None, no_list=False):

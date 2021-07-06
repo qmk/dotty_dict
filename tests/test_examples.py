@@ -3,7 +3,7 @@
 
 from example import fetch_all_examples_for_testing
 
-__author__ = 'Paweł Zadrożny'
+__author__ = 'Pawel Zadrozny'
 __copyright__ = 'Copyright (c) 2018, Pawelzny'
 
 
