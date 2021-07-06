@@ -56,7 +56,7 @@ setup(
     packages=find_packages(exclude=('tests', 'docs', 'bin', 'example')),
     package_dir={'dotty_dict': 'dotty_dict'},
     include_package_data=True,
-    use_scm_version=True,
+    use_scm_version=False,
     setup_requires=['setuptools_scm'],
     zip_safe=False,
     keywords='dot notation dict wrapper helper utils lib',
